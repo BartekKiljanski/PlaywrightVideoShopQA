@@ -1,0 +1,137 @@
+{
+  "uuid": "99ce040f-38de-41a5-9d16-b46c2c8fac0f",
+  "historyId": "2820d4e906a8d1f230a25c04759d3b23",
+  "testCaseId": "3632efcf9214b69bb3ed3aa5da5c2db4",
+  "fullName": "PlaywrightVideoShopQA/Features/Logowanie administratora do systemu/Poprawne zalogowanie do systemu jako administrator Playwright",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#5"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Logowanie administratora do systemu"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Poprawne zalogowanie do systemu jako administrator Playwright",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do panelu administracyjnego",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509771975,
+      "stop": 1707509780761
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509780764,
+      "stop": 1707509783105
+    },
+    {
+      "name": "I  wpisuję email administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509783105,
+      "stop": 1707509783616
+    },
+    {
+      "name": "I  wpisuję hasło administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509783616,
+      "stop": 1707509783734
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509783734,
+      "stop": 1707509787994
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509787995,
+      "stop": 1707509788118
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509771871,
+  "stop": 1707509788143
+}

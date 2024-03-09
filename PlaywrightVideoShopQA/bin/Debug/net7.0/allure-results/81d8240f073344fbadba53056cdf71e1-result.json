@@ -1,0 +1,268 @@
+{
+  "uuid": "56a485f1-317e-4bf5-95e4-5830d122e177",
+  "historyId": "73d0df6d974ce251c8d9812ef91f7bd2",
+  "testCaseId": "0f16f752d2a564e3123d061ca25584ac",
+  "fullName": "PlaywrightVideoShopQA/Features/Założenie konta przez użytkownika/Pomyślne zamówienie filmu przez użytkownika",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#7"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Założenie konta przez użytkownika"
+    }
+  ],
+  "links": [],
+  "name": "Pomyślne zamówienie filmu przez użytkownika",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do panelu administracyjnego",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509816578,
+      "stop": 1707509822213
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509822213,
+      "stop": 1707509823161
+    },
+    {
+      "name": "I  wpisuję email użytkownika",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509823161,
+      "stop": 1707509823696
+    },
+    {
+      "name": "I  wpisuję hasło użytkownika",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509823696,
+      "stop": 1707509823877
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509823877,
+      "stop": 1707509836559
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509836560,
+      "stop": 1707509836615
+    },
+    {
+      "name": "I  wybieram szczegóły wybranego filmu",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509836616,
+      "stop": 1707509838167
+    },
+    {
+      "name": "I  wybieram ilość produktów",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509838167,
+      "stop": 1707509838769
+    },
+    {
+      "name": "I  dodaje do koszyka",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509838769,
+      "stop": 1707509840963
+    },
+    {
+      "name": "Wtedy  przechodzę do koszyka",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509840963,
+      "stop": 1707509842682
+    },
+    {
+      "name": "I  wybieram podsumowanie",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509842682,
+      "stop": 1707509843629
+    },
+    {
+      "name": "I  składam zamówienie",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509843630,
+      "stop": 1707509846990
+    },
+    {
+      "name": "I  podaje danę do karty",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509846990,
+      "stop": 1707509855918
+    },
+    {
+      "name": "I  wybieram opcję Zapłać",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509855918,
+      "stop": 1707509856496
+    },
+    {
+      "name": "Wtedy  Zamówienie zostanie pomyślnie złożone",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509856496,
+      "stop": 1707509862829
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509816578,
+  "stop": 1707509862834
+}

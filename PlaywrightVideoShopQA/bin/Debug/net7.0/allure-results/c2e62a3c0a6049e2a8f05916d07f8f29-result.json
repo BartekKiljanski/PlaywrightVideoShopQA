@@ -1,0 +1,227 @@
+{
+  "uuid": "f9093139-dad8-4ec0-a2b3-c63cd247c9e5",
+  "historyId": "784696b94cc505c876321b45d584d57e",
+  "testCaseId": "bd16ceb35e14c4cd70ecc99c805b8dd9",
+  "fullName": "PlaywrightVideoShopQA/Features/Tworzenie nowej firmy oraz jej edycja oraz usunięcie przez administratora/Pomyślne dodanie nowej firmy przez administratora",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Tworzenie nowej firmy oraz jej edycja oraz usunięcie przez administratora"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Pomyślne dodanie nowej firmy przez administratora",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do panelu administracyjnego",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509771975,
+      "stop": 1707509780625
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509780626,
+      "stop": 1707509781797
+    },
+    {
+      "name": "I  wpisuję email administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509781797,
+      "stop": 1707509782349
+    },
+    {
+      "name": "I  wpisuję hasło administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509782349,
+      "stop": 1707509782559
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509782559,
+      "stop": 1707509787995
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509787995,
+      "stop": 1707509788067
+    },
+    {
+      "name": "Zakładając, że  jestem zalogowany jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509788068,
+      "stop": 1707509788092
+    },
+    {
+      "name": "Kiedy  wybieram zakładkę Firmy",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509788093,
+      "stop": 1707509791210
+    },
+    {
+      "name": "I  wybieram opcję Utwórz nową firmę",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509791210,
+      "stop": 1707509794205
+    },
+    {
+      "name": "I  wypełniam formularz danymi firmy",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509794205,
+      "stop": 1707509802914
+    },
+    {
+      "name": "I  wybieram opcję Utwórz firmę",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509802914,
+      "stop": 1707509806860
+    },
+    {
+      "name": "Wtedy  nowa firma zostaje dodana",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509806860,
+      "stop": 1707509814923
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509771873,
+  "stop": 1707509814926
+}

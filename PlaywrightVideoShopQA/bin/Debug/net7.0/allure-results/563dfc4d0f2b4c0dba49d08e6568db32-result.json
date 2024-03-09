@@ -1,0 +1,227 @@
+{
+  "uuid": "d1aee017-eeec-497d-a3df-2251b1fadaef",
+  "historyId": "68c55ff20ca293bdb8e379779214d3d8",
+  "testCaseId": "2ee0d00da9c36c885c54a9c8d7fc35e2",
+  "fullName": "PlaywrightVideoShopQA/Features/Tworzenie nowego produktu edycja oraz usunięcie przez administratora/Pomyślne dodanie nowego produktu przez administratora",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#4"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Tworzenie nowego produktu edycja oraz usunięcie przez administratora"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Pomyślne dodanie nowego produktu przez administratora",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do panelu administracyjnego",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509772778,
+      "stop": 1707509780367
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509780370,
+      "stop": 1707509781666
+    },
+    {
+      "name": "I  wpisuję email administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509781668,
+      "stop": 1707509782393
+    },
+    {
+      "name": "I  wpisuję hasło administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509782394,
+      "stop": 1707509782547
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509782548,
+      "stop": 1707509787995
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509787995,
+      "stop": 1707509788109
+    },
+    {
+      "name": "Zakładając, że  jestem zalogowany jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509788109,
+      "stop": 1707509788142
+    },
+    {
+      "name": "Kiedy  wybieram zakładkę Produkty",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509788143,
+      "stop": 1707509791211
+    },
+    {
+      "name": "I  wybieram opcję Utwórz nowy produkt",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509791211,
+      "stop": 1707509794205
+    },
+    {
+      "name": "I  wypełniam formularz danymi produktu",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509794205,
+      "stop": 1707509803117
+    },
+    {
+      "name": "I  wybieram opcję Utwórz produkt",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509803118,
+      "stop": 1707509814892
+    },
+    {
+      "name": "Wtedy  widzę nowy produkt na liście produktów",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509814892,
+      "stop": 1707509814961
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509772777,
+  "stop": 1707509814984
+}

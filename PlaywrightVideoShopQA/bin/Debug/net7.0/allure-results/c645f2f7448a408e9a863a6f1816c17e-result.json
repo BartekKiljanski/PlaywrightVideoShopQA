@@ -1,0 +1,227 @@
+{
+  "uuid": "140fe32e-fb3b-4480-a3b0-9f0972dab5a9",
+  "historyId": "356de6b9aef09f810ce71e362710ad2b",
+  "testCaseId": "d0316f034e20e7db05433015cc9ffd3f",
+  "fullName": "PlaywrightVideoShopQA/Features/Tworzenie nowej kategorii edycja oraz usunięcie przez administratora/Pomyślne edytowanie istniejącej kategorii przez administratora",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Tworzenie nowej kategorii edycja oraz usunięcie przez administratora"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Pomyślne edytowanie istniejącej kategorii przez administratora",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do panelu administracyjnego",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509806159,
+      "stop": 1707509814892
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509814892,
+      "stop": 1707509816430
+    },
+    {
+      "name": "I  wpisuję email administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509816430,
+      "stop": 1707509816751
+    },
+    {
+      "name": "I  wpisuję hasło administratora",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509816751,
+      "stop": 1707509816865
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509816865,
+      "stop": 1707509822203
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509822203,
+      "stop": 1707509822259
+    },
+    {
+      "name": "Zakładając, że  jestem zalogowany jako administrator",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509822259,
+      "stop": 1707509822272
+    },
+    {
+      "name": "Kiedy  wybieram zakładkę Kategoria",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509822272,
+      "stop": 1707509824708
+    },
+    {
+      "name": "I  wybieram istniejącą kategorię do edycji",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509824708,
+      "stop": 1707509827969
+    },
+    {
+      "name": "I  modyfikuję dane w formularzu",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509827969,
+      "stop": 1707509836595
+    },
+    {
+      "name": "I  wybieram opcję Edytuj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509836595,
+      "stop": 1707509838445
+    },
+    {
+      "name": "Wtedy  zmodyfikowana kategoria zostaje zaktualizowana",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509838445,
+      "stop": 1707509841568
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509806159,
+  "stop": 1707509841575
+}

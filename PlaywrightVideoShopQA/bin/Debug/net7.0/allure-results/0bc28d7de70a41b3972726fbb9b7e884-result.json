@@ -1,0 +1,137 @@
+{
+  "uuid": "28502fa1-cb0d-4392-8b5b-66f43dd44e9c",
+  "historyId": "37258f88aae97669a84ff65c4578986c",
+  "testCaseId": "a3ac66a2a996b3acd97b99924f271a32",
+  "fullName": "PlaywrightVideoShopQA/Features/Tworzenie nowego konta przez administratora/Pomyślne logowanie na nowo utworzone konto przez administratora",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#6"
+    },
+    {
+      "name": "host",
+      "value": "YSPA01027"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Tworzenie nowego konta przez administratora"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    }
+  ],
+  "links": [],
+  "name": "Pomyślne logowanie na nowo utworzone konto przez administratora",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Zakładając, że  otwieram stronę logowania do aplikacji",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509805767,
+      "stop": 1707509814892
+    },
+    {
+      "name": "Kiedy  wybieram opcję Zaloguj",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509814892,
+      "stop": 1707509817204
+    },
+    {
+      "name": "I  wpisuję email utworzonego konta",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509817204,
+      "stop": 1707509817602
+    },
+    {
+      "name": "I  wpisuję hasło utworzonego konta",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509817602,
+      "stop": 1707509817772
+    },
+    {
+      "name": "I  zatwierdzam formularz logowania",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509817772,
+      "stop": 1707509822203
+    },
+    {
+      "name": "Wtedy  jestem zalogowany do systemu jako nowy użytkownik",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1707509822203,
+      "stop": 1707509822275
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1707509805767,
+  "stop": 1707509822278
+}
